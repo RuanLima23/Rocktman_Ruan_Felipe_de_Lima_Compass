@@ -8,7 +8,7 @@
     // Gerador de número entre 1 e 190
     // Velocidade mínima de 35
     
-// Referência: https://www.youtube.com/watch?v=NDoxr30RdIk
+// Referência função randomNumber: https://www.youtube.com/watch?v=NDoxr30RdIk
 
 function randomNumber(a,b){
     return Math.floor(Math.random() * (b - a + 1)) + a
