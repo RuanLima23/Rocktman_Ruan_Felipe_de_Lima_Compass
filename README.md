@@ -18,7 +18,7 @@ Nesses projetos foram utilizados as seguintes tecnologias:
 - [GitHub](https://github.com/)
 
 
-## Como baixar os projetos 👀
+## Como baixar os projetos 🧠
 
  1. Primeiramente, baixe o git em sua máquina.
 
@@ -44,7 +44,12 @@ $ git clone https://github.com/RuanLima23/Rocktman_Ruan_Felipe_de_Lima_Compass.g
 
 10. Abra o documento "calculadora.spec.js" e comece a se divertir realizando os testes.
 
-## Referências dos projetos 🤝
+## Agradecimentos 🤝
+
+Agradeço aos colegas e aos evengelistas do programa de bolsas pela ajuda na resolução dos exercícios e esclarecimento de dúvidas.
+Agradecimento especial ao colega [Allan](https://github.com/AllaNaroK) pela ajuda na resolução dos projetos.
+
+## Referências dos projetos ✍
 
 Vídeo de referência aos projetos realizados: https://www.youtube.com/watch?v=i6Oi-YtXnAU&t=4045s
 
@@ -62,4 +67,5 @@ Como eu fiz esse README: https://www.youtube.com/watch?v=Gcb60rPbnKA
 
 Como eu fiz o README do meu perfil: https://www.youtube.com/watch?v=VEVJQipsA7M&t=677s
 
-# Desenvolvido por Ruan Felipe de Lima
+
+### Desenvolvido por Ruan Felipe de Lima
