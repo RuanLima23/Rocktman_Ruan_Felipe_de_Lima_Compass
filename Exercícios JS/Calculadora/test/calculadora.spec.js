@@ -96,7 +96,7 @@ describe('Testes das propriedades da raiz quadrada',function(){
     })
     it('Se o número for negativo',function(){
         var raiz1 = raizQuadrada(-8);
-        expect(raiz1).to.be.equal(NaN);
+        expect(raiz1).to.be.NaN;
     })
     it(`Converte 'string' para 'number'`,function(){
         var raiz1 = raizQuadrada('16');
