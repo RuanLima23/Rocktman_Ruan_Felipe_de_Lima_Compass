@@ -1,4 +1,4 @@
-// Invertendo as cores
+// Trocando valores
 
 let cor1 = 'Vermelho';
 let cor2 = 'Azul';
